@@ -65,7 +65,6 @@ The pipeline uses a nested-loop design: an outer loop over companies, and an inn
 
 ## Screenshots
 
-*(Add your screenshots here once uploaded, e.g.)*
-
 ![Make scenario](screenshot-make-canvas.png)
 ![Airtable CRM](screenshot-crm.png)
+![Ai_Email_Draft](AI-generated-content-for-email.png)
