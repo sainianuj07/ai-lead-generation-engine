@@ -28,7 +28,7 @@ I wanted to see how much of that pipeline could run on its own, from sourcing co
 
 The pipeline uses a nested-loop design: an outer loop over companies, and an inner loop over each company's contacts.
 
-![Pipeline flowchart](lead_gen_flowchart.png)
+![Pipeline flowchart](lead_gen_flowchart_.png)
 
 **Flow:** Generate companies → Parse JSON → Company loop → Find emails (Hunter) → Email loop → Write email (Gemini) → Add to CRM (Airtable)
 
